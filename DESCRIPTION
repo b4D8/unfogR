@@ -1,0 +1,14 @@
+Package: unfogR
+Type: Package
+Title: Organic Accounting
+Version: 0.0.1
+Author: b4D8
+Maintainer: b4D8 <hello@b4d8.fr>
+Description: Tools for Personal and Cooperative Financial Intelligence
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+URL: https://b4d8.github.io/unfogR/
+BugReports: https://github.com/b4D8/unfogR/issues/
